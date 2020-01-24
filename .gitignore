@@ -1,0 +1,5 @@
+*.kdbx
+*.kdb
+*.key
+*.lock
+tags
